@@ -1,0 +1,15 @@
+
+# Eclipse generated files
+.metadata/
+.settings/
+.classpath
+.project
+
+# Build output
+target/
+bin/
+
+# Private credentials
+.env
+restaurant-db.properties
+
